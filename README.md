@@ -1,0 +1,2 @@
+# Note-App
+It is basically a Digital Note which allows you to create notes . Due to busy schedule, we tend to forget many important things easily, and to remember these things we need to note down things in a piece of paper. In such busy schedules people need some personal assistant or a reminder to remind them about the important work that needs to be done. These Note App can help us to note the daily task which needs to be done. Important meetings, events etc. can be recorded with great ease through the use of this application
